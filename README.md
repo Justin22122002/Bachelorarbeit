@@ -1,10 +1,10 @@
-# Bachelor Thesis Projektstruktur
+# Bachelorarbeit Projektstruktur
 
 Diese README beschreibt die Struktur des Projekts für meine Bachelorarbeit. Die einzelnen Ordner und ihre Funktionen sind wie folgt:
 
 ## Verzeichnisübersicht
 
-### `Bachelorthesis/`
+### `Bachelorarbeit/`
 Der Hauptordner des Projekts.
 
 #### `DikeDataset/`
